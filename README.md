@@ -1,26 +1,27 @@
-# FIT1056 Code Venture 2.0
+# CodeVenture Backend
 
 ## Description
+CodeVenture is a software developed to teach young kids how to code Python by providing multiple types learning content such as quizzes and tutorials, a progress checker, and gamification elements. 
 
-CodeVenture is a backend project for FIT1056 that provides simple data models and CRUD operations for learning content, quizzes, tutorials, and users. It includes test coverage for core modules and is intended as an educational codebase.
+Developed as part of an assignment from FIT1056: Collaborative Engineering for Web Applications in Monash University.
 
-👥 Team Members
+## 👥 Team Members
 - Chee Min Hao
 - Christine Chiong
 - Ong Kai Yun
 - Ashley Yow
 
-🎮 What This Project Does
+## 🎮 What This Project Does
 - Implements data models and CRUD-like operations for tutorials, quizzes, learning modules, and users.
 - Provides a small test suite under the `testing/` folder to validate module behaviour.
 - Includes a `main.py` entry point for manual runs and quick exploration.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python 3.x
 - pytest for tests
 - Plain file-based modules under the `database/` package
 
-📋 Prerequisites
+## 📋 Prerequisites
 1. Python 3.8+ installed
 2. Create and activate a virtual environment (recommended):
 
