@@ -1,7 +1,7 @@
 # CodeVenture Backend
 
 ## Description
-CodeVenture is a software developed to teach young kids how to code Python by providing multiple types learning content such as quizzes and tutorials, a progress checker, and gamification elements. 
+CodeVenture is a software developed to teach young kids how to code Python by providing multiple types learning content such as quizzes and tutorials, a progress checker, and gamification elements. This repository houses the backend of the system, developed using Flask and Firebase.
 
 Developed as part of an assignment from FIT1056: Collaborative Engineering for Web Applications in Monash University.
 
